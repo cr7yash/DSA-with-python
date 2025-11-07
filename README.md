@@ -1,2 +1,2 @@
 # DSA-with-python
-Comprehensive study of data structures and algorithms with Python
+This is where I study data structures and algorithms with Python
